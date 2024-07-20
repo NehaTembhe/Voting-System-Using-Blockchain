@@ -18,7 +18,7 @@
 - FastAPI
 - MySQL Database (port – 3306)
 
-## Screenshots(https://github.com/NehaTembhe/Voting-System-Using-Blockchain/blob/main/public/Login%20SS.png)
+## Screenshots
 
 ![Login Page] (https://github.com/NehaTembhe/Voting-System-Using-Blockchain/blob/main/public/Login%20SS.png)
 
