@@ -32,7 +32,7 @@
 
 2. Clone the repository by using the command
         
-        git clone 
+        git clone https://github.com/NehaTembhe/Voting-System-Using-Blockchain.git
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
