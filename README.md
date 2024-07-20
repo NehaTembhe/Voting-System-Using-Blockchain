@@ -20,9 +20,9 @@
 
 ## Screenshots
 
-![Login Page]
+![Login Page] (https://github.com/NehaTembhe/Voting-System-Using-Blockchain/blob/main/public/Index%20SS.png)
 
-![Admin Page](https://github.com/NehaTembhe/Voting-System-Using-Blockchain/blob/main/public/Admin%20SS.png)
+![Admin Page] (https://github.com/NehaTembhe/Voting-System-Using-Blockchain/blob/main/public/Admin%20SS.png)
 
 ![Voter Page]
 
